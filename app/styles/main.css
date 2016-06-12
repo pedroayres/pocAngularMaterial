@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+  .toolbar {
+    margin-top: 7px;
+  }
+
+  .toolbar a{
+    float: left;
+
+  }
+
+}
+/* Responsive: Mobile */
+@media screen and (max-width: 768px) {
+  .toolbar a{
+    display: block;
+  }
+}
+
+.address .md-3-line .md-list-item-text{
+  margin: 10px ;
+}
+
+.address .fa-home {
+  font-size: 55px;
+}

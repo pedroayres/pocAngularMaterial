@@ -1,0 +1,23 @@
+<md-content class="md-padding" layout="row" layout-wrap="" layout-align="center start">
+	<div flex="100" layout="column">
+	  <md-card>
+	    <md-card-title>
+	      <md-card-title-text>
+	        <span class="md-headline" ng-bind="perfil.info[perfil.currentUser].name"></span>
+	        <span class="md-subhead" ng-bind="'Addres: ' + perfil.info[perfil.currentUser].address"></span>
+	        <span class="md-subhead" ng-bind="'Age: ' + perfil.info[perfil.currentUser].age + ' years'"></span>
+	        <span class="md-subhead" ng-bind="'Phone: ' + perfil.info[perfil.currentUser].phone"></span>
+	        <span class="md-subhead" ng-bind="'CPF: ' + perfil.info[perfil.currentUser].cpf"></span>
+	      </md-card-title-text>
+	      <md-card-title-media>
+	        <div class="md-media-lg card-media">
+	        	<img ng-src="images/default-avatar.png"></img>
+	        </div>
+	      </md-card-title-media>
+	    </md-card-title>
+	    <md-card-actions layout="row" layout-align="end center">
+	      <md-button>Edit</md-button>
+	    </md-card-actions>
+	  </md-card>
+	</div>
+</md-content>

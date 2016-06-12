@@ -1,0 +1,63 @@
+{
+  "requestList": [
+    {
+      "name": "Iphone 5s",
+      "description": "iPhone 5s comes in two storage sizes: 16GB and 32GB. The term “GB” stands for gigabytes. The more gigabytes you have, the more content you can store on your iPhone, such as apps, games, photos, HD videos, music, and movies. ",
+      "img": "http://iacom1-a.akamaihd.net/produtos/01/00/item/122099/2/122099272_1GG.jpg",
+      "price": "$ 650"
+    },
+    {
+      "name": "Iphone 5C",
+      "description": "The iPhone 5C (marketed with a stylized lowercase 'c' as iPhone 5c) is a smartphone designed and marketed by Apple Inc. The device was part of the iPhone series and was unveiled on September 10, 2013,[2][3] and released on September 20, 2013,[4][5] along with its higher-end counterpart.",
+      "img": "http://iacom1-a.akamaihd.net/produtos/01/00/item/120706/5/120706500_1GG.jpg",
+      "price": "$ 400"
+    },
+    {
+      "name": "Iphone 6",
+      "description": "The iPhone 6 is not only bigger, it is better in every way. It's bigger, much thinner, more powerful, and consume less power. The smooth metal surface seamlessly integrates our most advanced Multi-Touch screen. It is a new generation of iPhone best in everything.",
+      "img": "http://iacom1-a.akamaihd.net/produtos/01/00/item/123402/7/123402763_1GG.jpg",
+      "price": "$ 800"
+    },
+    {
+      "name": "Iphone 6 Plus",
+      "description": "The iPhone 6 Plus is Apple's largest smartphone ever, with a 5.5-inch display and a resolution of 1080 x 1920 pixels -- good for a pixel density of 401 ppi.",
+      "img": "http://iacom1-a.akamaihd.net/produtos/01/00/item/120998/8/120998856_1GG.jpg",
+      "price": "$ 1000"
+    }
+    ],
+  "perfil": [
+    {
+      "name": "Pedro",
+      "address": "Rua Carmelo Mitica 225 - Vinhedo",
+      "age": "20",
+      "phone": "19997873417",
+      "cpf": "127.617.307.55",
+      "avatar" : ""
+    },
+     {
+      "name": "Helen",
+      "address": "Rua 9 de junho 267 - Vinhedo",
+      "age": "19",
+      "phone": "52345678912",
+      "cpf": "123.412.123.32",
+      "avatar" : ""
+    },
+     {
+      "name": "Luiza",
+      "address": "Rua Magalhães 123 - Vinhedo",
+      "age": "22",
+      "phone": "42345678911",
+      "cpf": "345.678.987.12",
+      "avatar" : ""
+    },
+     {
+      "name": "Samanta",
+      "address": "Rua de Itaquera 4321 - Vinhedo",
+      "age": "24",
+      "phone": "32345678912",
+      "cpf": "123.413.243.31",
+      "avatar" : ""
+    }
+  ]
+  
+}
